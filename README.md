@@ -1,16 +1,15 @@
-## Hi there 👋
+## Hi, I'm Mateus
 
-<!--
-**mngmaateus/mngmaateus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full-stack developer building web apps and admin panels with **React**, **TypeScript**, **Node.js**, and **PostgreSQL**.
 
-Here are some ideas to get you started:
+### Recent work
+- **[Milesland](https://milesland.com)** — marketplace (auth, payments, real-time chat, admin dashboard)
+- **[Maesther Search](https://maesther.org)** — bilingual search (Typesense + React + Python API)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Stack
+React · TypeScript · Node/Express · PostgreSQL · Firebase · Python · Heroku · Typesense
+
+### Freelance
+Greenfield projects · written English · async · scope before code
+
+📫 Fiverr: [mateusnaves](https://www.fiverr.com/s/lr97P0e)
