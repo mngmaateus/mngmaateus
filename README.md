@@ -4,7 +4,7 @@ Full-stack developer building web apps and admin panels with **React**, **TypeSc
 
 ### Recent work
 - **[Milesland](https://milesland.com)** — marketplace (auth, payments, real-time chat, admin dashboard)
-- **[Maesther Search](https://maesther.org)** — bilingual search (Typesense + React + Python API)
+- **Maesther Search** — bilingual search for a private foundation (Typesense + React + Python API)
 
 ### Stack
 React · TypeScript · Node/Express · PostgreSQL · Firebase · Python · Heroku · Typesense
